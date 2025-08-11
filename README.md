@@ -1,10 +1,10 @@
 # Title : Pointers Basics
 
 
-Aim: To study and implement C++Pointer basics
+# Aim: To study and implement C++Pointer basics
 
 
-Tool: VS Code and C++ compiler
+# Tool: VS Code and C++ compiler
 
 
 # Theory: 
