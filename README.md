@@ -18,4 +18,6 @@ Tool: VS Code and C++ compiler
 •	The address of the variable you’re working with is assigned to the pointer variable that points to the same data type (such as an int or string).
 
 
-# Conclusion: Pointers are special variables that store the memory address of another variable. Instead of holding a value (like 10 or 'c'), they hold the location where a value is stored. This allows for direct memory manipulation, which is a powerful and essential feature for several tasks.
+# Conclusion:
+
+Pointers are special variables that store the memory address of another variable. Instead of holding a value (like 10 or 'c'), they hold the location where a value is stored. This allows for direct memory manipulation, which is a powerful and essential feature for several tasks.
